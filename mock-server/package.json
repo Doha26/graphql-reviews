@@ -1,0 +1,11 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "Mock server to test the GraphQL backend implementation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Foujeu",
+  "license": "ISC"
+}

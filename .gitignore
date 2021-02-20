@@ -1,0 +1,12 @@
+.idea
+node_modules
+.DS_Store
+.env
+# testing
+/coverage
+
+# production
+/build
+pm-debug.log*
+yarn-debug.log*
+yarn-error.log*

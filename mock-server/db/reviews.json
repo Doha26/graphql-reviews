@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "rate": 88,
+    "rate": 2,
     "reviewer": "Miss Connie Kemmer",
     "assigned_to": "Ettie_Erdman45@hotmail.com",
     "title": "District Communications Associate",
@@ -11,7 +11,7 @@
   },
   {
     "id": "2",
-    "rate": 7,
+    "rate": 4,
     "reviewer": "Stuart Reilly",
     "assigned_to": "Ettie_Erdman45@hotmail.com",
     "title": "Direct Optimization Specialist",
@@ -20,7 +20,7 @@
   },
   {
     "id": "3",
-    "rate": 39,
+    "rate": 4,
     "reviewer": "Mr. Ray Batz",
     "assigned_to": "Ettie_Erdman45@hotmail.com",
     "title": "Global Intranet Architect",
@@ -29,7 +29,7 @@
   },
   {
     "id": "4",
-    "rate": 25,
+    "rate": 2,
     "reviewer": "Jeremie Konopelski II",
     "assigned_to": "Ettie_Erdman45@hotmail.com",
     "title": "Chief Intranet Producer",
@@ -38,7 +38,7 @@
   },
   {
     "id": "5",
-    "rate": 66,
+    "rate": 3,
     "reviewer": "Darrion Lynch",
     "assigned_to": "Libby.King99@hotmail.com",
     "title": "Customer Directives Consultant",
@@ -47,7 +47,7 @@
   },
   {
     "id": "6",
-    "rate": 46,
+    "rate": 5,
     "reviewer": "Phoebe Kertzmann",
     "assigned_to": "Stacey.Nader@gmail.com",
     "title": "Customer Data Engineer",
@@ -56,7 +56,7 @@
   },
   {
     "id": "7",
-    "rate": 82,
+    "rate": 1,
     "reviewer": "Verner Gaylord",
     "assigned_to": "Stacey.Nader@gmail.com",
     "title": "Forward Accounts Architect",
@@ -65,7 +65,7 @@
   },
   {
     "id": "8",
-    "rate": 43,
+    "rate": 1,
     "reviewer": "Edgardo Larson",
     "assigned_to": "Libby.King99@hotmail.com",
     "title": "Legacy Directives Associate",
@@ -74,7 +74,7 @@
   },
   {
     "id": "9",
-    "rate": 47,
+    "rate": 1,
     "reviewer": "Ana Corkery",
     "assigned_to": "Stacey.Nader@gmail.com",
     "title": "Principal Security Supervisor",
@@ -83,7 +83,7 @@
   },
   {
     "id": "10",
-    "rate": 99,
+    "rate": 2,
     "reviewer": "Victoria O'Reilly",
     "assigned_to": "Kevon.Lowe28@yahoo.com",
     "title": "Product Paradigm Officer",
@@ -92,7 +92,7 @@
   },
   {
     "id": "11",
-    "rate": 94,
+    "rate": 4,
     "reviewer": "Herminia Beatty",
     "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "National Operations Analyst",
@@ -101,7 +101,7 @@
   },
   {
     "id": "12",
-    "rate": 16,
+    "rate": 4,
     "reviewer": "John duparis",
     "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Global Optimization Technician",
@@ -110,7 +110,7 @@
   },
   {
     "id": "13",
-    "rate": 17,
+    "rate": 3,
     "reviewer": "Margie Wiegand III",
     "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Investor Assurance Director",
@@ -119,7 +119,7 @@
   },
   {
     "id": "14",
-    "rate": 30,
+    "rate": 3,
     "reviewer": "Ray Padberg",
     "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Principal Communications Coordinator",
@@ -128,7 +128,7 @@
   },
   {
     "id": "15",
-    "rate": 83,
+    "rate": 3,
     "reviewer": "Eldora Pfeffer",
     "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "District Quality Associate",
@@ -137,7 +137,7 @@
   },
   {
     "id": "16",
-    "rate": 57,
+    "rate": 3,
     "reviewer": "Whitney Roob",
     "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Global Usability Facilitator",
@@ -146,7 +146,7 @@
   },
   {
     "id": "17",
-    "rate": 94,
+    "rate": 2,
     "reviewer": "Naomi Conroy",
     "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Product Creative Agent",
@@ -164,7 +164,7 @@
   },
   {
     "id": "19",
-    "rate": 12,
+    "rate": 2,
     "reviewer": "Adelia Blanda",
     "assigned_to": "Luigi.Brakus@hotmail.com",
     "title": "Regional Web Consultant",
@@ -173,7 +173,7 @@
   },
   {
     "id": "20",
-    "rate": 75,
+    "rate": 4,
     "reviewer": "Dwight Ledner",
     "assigned_to": "Laurianne.McClure70@yahoo.com",
     "title": "Customer Intranet Strategist",
@@ -182,7 +182,7 @@
   },
   {
     "id": "21",
-    "rate": 82,
+    "rate": 2,
     "reviewer": "Ella Kuhn",
     "assigned_to": "Laurianne.McClure70@yahoo.com",
     "title": "Principal Accountability Supervisor",
@@ -191,7 +191,7 @@
   },
   {
     "id": "22",
-    "rate": 63,
+    "rate": 4,
     "reviewer": "Rupert Torphy",
     "assigned_to": "Levi.Kulas@yahoo.com",
     "title": "Global Identity Facilitator",
@@ -200,7 +200,7 @@
   },
   {
     "id": "23",
-    "rate": 60,
+    "rate": 5,
     "reviewer": "Monte Ebert",
     "assigned_to": "Levi.Kulas@yahoo.com",
     "title": "Central Creative Architect",
@@ -209,7 +209,7 @@
   },
   {
     "id": "24",
-    "rate": 50,
+    "rate": 2,
     "reviewer": "Jackson Hudson",
     "assigned_to": "Levi.Kulas@yahoo.com",
     "title": "Global Functionality Administrator",
@@ -218,7 +218,7 @@
   },
   {
     "id": "25",
-    "rate": 12,
+    "rate": 3,
     "reviewer": "Nora Swift",
     "assigned_to": "Jess_Nolan@hotmail.com",
     "title": "Central Data Strategist",
@@ -227,7 +227,7 @@
   },
   {
     "id": "26",
-    "rate": 84,
+    "rate": 2,
     "reviewer": "Jolie Bogan",
     "assigned_to": "Zoe_Zemlak67@hotmail.com",
     "title": "Principal Research Planner",
@@ -236,7 +236,7 @@
   },
   {
     "id": "27",
-    "rate": 41,
+    "rate": 2,
     "reviewer": "Ken Lindgren",
     "assigned_to": "Jess_Nolan@hotmail.com",
     "title": "Central Branding Facilitator",
@@ -245,7 +245,7 @@
   },
   {
     "id": "28",
-    "rate": 38,
+    "rate": 3,
     "reviewer": "Cameron Smitham",
     "assigned_to": "Zoe_Zemlak67@hotmail.com",
     "title": "Internal Group Coordinator",
@@ -254,7 +254,7 @@
   },
   {
     "id": "29",
-    "rate": 84,
+    "rate": 5,
     "reviewer": "Gust Sporer",
     "assigned_to": "Amina.Medhurst@hotmail.com",
     "title": "Internal Integration Agent",
@@ -263,7 +263,7 @@
   },
   {
     "id": "30",
-    "rate": 35,
+    "rate": 5,
     "reviewer": "Estell Hand",
     "assigned_to": "Broderick73@hotmail.com",
     "title": "Global Quality Engineer",
@@ -272,7 +272,7 @@
   },
   {
     "id": "31",
-    "rate": 64,
+    "rate": 4,
     "reviewer": "Amalia Lind",
     "assigned_to": "Ibrahim83@yahoo.com",
     "title": "Internal Data Producer",
@@ -281,7 +281,7 @@
   },
   {
     "id": "32",
-    "rate": 88,
+    "rate": 4,
     "reviewer": "Coby Bode",
     "assigned_to": "King.Wilkinson@gmail.com",
     "title": "Dynamic Intranet Assistant",
@@ -290,7 +290,7 @@
   },
   {
     "id": "33",
-    "rate": 69,
+    "rate": 4,
     "reviewer": "Ariane Daugherty",
     "assigned_to": "King.Wilkinson@gmail.com",
     "title": "Central Usability Assistant",
@@ -299,7 +299,7 @@
   },
   {
     "id": "34",
-    "rate": 81,
+    "rate": 4,
     "reviewer": "Paige Gibson",
     "assigned_to": "Bailey36@hotmail.com",
     "title": "Corporate Accounts Planner",
@@ -308,7 +308,7 @@
   },
   {
     "id": "35",
-    "rate": 54,
+    "rate": 3,
     "reviewer": "Mr. Mckenzie Hane",
     "assigned_to": "Gayle39@hotmail.com",
     "title": "Direct Response Analyst",
@@ -317,7 +317,7 @@
   },
   {
     "id": "36",
-    "rate": 82,
+    "rate": 7,
     "reviewer": "Rowan Bode",
     "assigned_to": "Gayle39@hotmail.com",
     "title": "Lead Markets Producer",
@@ -326,7 +326,7 @@
   },
   {
     "id": "37",
-    "rate": 37,
+    "rate": 2,
     "reviewer": "Brad Labadie",
     "assigned_to": "Gayle39@hotmail.com",
     "title": "Dynamic Mobility Supervisor",
@@ -335,7 +335,7 @@
   },
   {
     "id": "38",
-    "rate": 70,
+    "rate": 4,
     "reviewer": "Aliza Kuhn",
     "assigned_to": "Horacio.Abshire@gmail.com",
     "title": "Investor Directives Analyst",
@@ -344,7 +344,7 @@
   },
   {
     "id": "39",
-    "rate": 63,
+    "rate": 5,
     "reviewer": "Bethany Zulauf",
     "assigned_to": "Ozella.Dare@hotmail.com",
     "title": "International Operations Agent",
@@ -353,7 +353,7 @@
   },
   {
     "id": "40",
-    "rate": 32,
+    "rate": 3,
     "reviewer": "Mrs. Veda Koss",
     "assigned_to": "Ozella.Dare@hotmail.com",
     "title": "Customer Intranet Officer",
@@ -362,7 +362,7 @@
   },
   {
     "id": "41",
-    "rate": 100,
+    "rate": 1,
     "reviewer": "Dr. Elmira Crooks",
     "assigned_to": "Norbert98@hotmail.com",
     "title": "Future Intranet Assistant",
@@ -371,7 +371,7 @@
   },
   {
     "id": "42",
-    "rate": 89,
+    "rate": 5,
     "reviewer": "Autumn Jacobi",
     "assigned_to": "Jalen.Murazik@gmail.com",
     "title": "Direct Optimization Engineer",
@@ -380,7 +380,7 @@
   },
   {
     "id": "43",
-    "rate": 93,
+    "rate": 3,
     "reviewer": "Mikayla Rippin",
     "assigned_to": "Mattie_Murphy@gmail.com",
     "title": "Future Applications Consultant",
@@ -389,7 +389,7 @@
   },
   {
     "id": "44",
-    "rate": 34,
+    "rate": 1,
     "reviewer": "Miss Kiel Mohr",
     "assigned_to": "Mattie_Murphy@gmail.com",
     "title": "Internal Branding Manager",
@@ -398,7 +398,7 @@
   },
   {
     "id": "45",
-    "rate": 54,
+    "rate": 4,
     "reviewer": "Orland Russel",
     "assigned_to": "Jayce_Wintheiser@yahoo.com",
     "title": "Direct Accounts Liaison",
@@ -407,7 +407,7 @@
   },
   {
     "id": "46",
-    "rate": 9,
+    "rate": 3,
     "reviewer": "Baylee West",
     "assigned_to": "Haylee_Hintz@yahoo.com",
     "title": "Internal Integration Administrator",
@@ -416,7 +416,7 @@
   },
   {
     "id": "47",
-    "rate": 61,
+    "rate": 3,
     "reviewer": "Nadia Hudson",
     "assigned_to": "Haylee_Hintz@yahoo.com",
     "title": "District Data Technician",
@@ -425,7 +425,7 @@
   },
   {
     "id": "48",
-    "rate": 17,
+    "rate": 2,
     "reviewer": "Sonny Ruecker",
     "assigned_to": "Tyson_Marvin10@yahoo.com",
     "title": "Global Tactics Planner",
@@ -434,7 +434,7 @@
   },
   {
     "id": "49",
-    "rate": 50,
+    "rate": 1,
     "reviewer": "Effie Pagac",
     "assigned_to": "Tyson_Marvin10@yahoo.com",
     "title": "Customer Data Officer",
@@ -443,7 +443,7 @@
   },
   {
     "id": "50",
-    "rate": 29,
+    "rate": 4,
     "reviewer": "Josefina Torphy",
     "assigned_to": "Tyson_Marvin10@yahoo.com",
     "title": "National Accounts Administrator",
@@ -452,7 +452,7 @@
   },
   {
     "id": "51",
-    "rate": 27,
+    "rate": 3,
     "reviewer": "Ophelia Hessel",
     "assigned_to": "Herta.Jaskolski@yahoo.com",
     "title": "National Paradigm Administrator",
@@ -470,7 +470,7 @@
   },
   {
     "id": "53",
-    "rate": 62,
+    "rate": 2,
     "reviewer": "Liam Orn",
     "assigned_to": "Ernest.Jacobi70@hotmail.com",
     "title": "Dynamic Configuration Administrator",
@@ -479,7 +479,7 @@
   },
   {
     "id": "54",
-    "rate": 47,
+    "rate": 1,
     "reviewer": "Valerie Pfannerstill I",
     "assigned_to": "Jake_Bruen9@yahoo.com",
     "title": "Customer Functionality Administrator",
@@ -488,7 +488,7 @@
   },
   {
     "id": "55",
-    "rate": 89,
+    "rate": 5,
     "reviewer": "Sydnee Quigley",
     "assigned_to": "Nathan_Collier@hotmail.com",
     "title": "Human Solutions Engineer",
@@ -497,7 +497,7 @@
   },
   {
     "id": "56",
-    "rate": 43,
+    "rate": 3,
     "reviewer": "Johan Robel IV",
     "assigned_to": "Jermaine_Hermann93@gmail.com",
     "title": "Legacy Research Associate",
@@ -506,7 +506,7 @@
   },
   {
     "id": "57",
-    "rate": 42,
+    "rate": 4,
     "reviewer": "Ocie Bogisich",
     "assigned_to": "Jermaine_Hermann93@gmail.com",
     "title": "Chief Factors Manager",
@@ -515,7 +515,7 @@
   },
   {
     "id": "58",
-    "rate": 61,
+    "rate": 1,
     "reviewer": "Jermain Spencer",
     "assigned_to": "Sammie21@hotmail.com",
     "title": "Customer Paradigm Orchestrator",
@@ -524,7 +524,7 @@
   },
   {
     "id": "59",
-    "rate": 30,
+    "rate": 3,
     "reviewer": "Mrs. Winona Trantow",
     "assigned_to": "Sammie21@hotmail.com",
     "title": "National Web Liaison",
@@ -533,7 +533,7 @@
   },
   {
     "id": "60",
-    "rate": 60,
+    "rate": 2,
     "reviewer": "Cole Reynolds",
     "assigned_to": "Sammie21@hotmail.com",
     "title": "Central Branding Strategist",
@@ -542,7 +542,7 @@
   },
   {
     "id": "61",
-    "rate": 39,
+    "rate": 3,
     "reviewer": "Lambert Cremin",
     "assigned_to": "Sammie21@hotmail.com",
     "title": "Regional Division Liaison",
@@ -551,7 +551,7 @@
   },
   {
     "id": "62",
-    "rate": 65,
+    "rate": 5,
     "reviewer": "Krystal Mraz",
     "assigned_to": "Sammie21@hotmail.com",
     "title": "District Functionality Architect",
@@ -560,7 +560,7 @@
   },
   {
     "id": "63",
-    "rate": 84,
+    "rate": 4,
     "reviewer": "Jabari O'Hara",
     "assigned_to": "Deion12@hotmail.com",
     "title": "Customer Functionality Specialist",
@@ -569,7 +569,7 @@
   },
   {
     "id": "64",
-    "rate": 98,
+    "rate": 3,
     "reviewer": "Mrs. Dewitt Bayer",
     "assigned_to": "Jerald.Halvorson@gmail.com",
     "title": "Chief Accountability Orchestrator",
@@ -578,7 +578,7 @@
   },
   {
     "id": "65",
-    "rate": 84,
+    "rate": 4,
     "reviewer": "Jayden Kuhic PhD",
     "assigned_to": "Ellen39@gmail.com",
     "title": "Future Branding Associate",
@@ -587,7 +587,7 @@
   },
   {
     "id": "66",
-    "rate": 32,
+    "rate": 2,
     "reviewer": "Joesph Kessler",
     "assigned_to": "Ellen39@gmail.com",
     "title": "Regional Tactics Director",
@@ -605,7 +605,7 @@
   },
   {
     "id": "68",
-    "rate": 49,
+    "rate": 4,
     "reviewer": "Peyton Cummings",
     "assigned_to": "Hazle_Hamill10@hotmail.com",
     "title": "Lead Paradigm Strategist",
@@ -614,7 +614,7 @@
   },
   {
     "id": "69",
-    "rate": 13,
+    "rate": 3,
     "reviewer": "Jennie Lueilwitz",
     "assigned_to": "Joesph_Weimann8@hotmail.com",
     "title": "Investor Operations Technician",
@@ -623,7 +623,7 @@
   },
   {
     "id": "70",
-    "rate": 6,
+    "rate": 4,
     "reviewer": "Mrs. Jasen Daniel",
     "assigned_to": "Joesph_Weimann8@hotmail.com",
     "title": "Legacy Response Analyst",
@@ -632,7 +632,7 @@
   },
   {
     "id": "71",
-    "rate": 6,
+    "rate": 5,
     "reviewer": "Trystan Hayes",
     "assigned_to": "Norbert.Marquardt58@hotmail.com",
     "title": "Product Functionality Producer",
@@ -641,7 +641,7 @@
   },
   {
     "id": "72",
-    "rate": 24,
+    "rate": 4,
     "reviewer": "Lupe O'Conner Jr.",
     "assigned_to": "Norbert.Marquardt58@hotmail.com",
     "title": "Regional Marketing Producer",
@@ -650,7 +650,7 @@
   },
   {
     "id": "73",
-    "rate": 92,
+    "rate": 1,
     "reviewer": "Eleazar Rice III",
     "assigned_to": "Jules.Wiegand@yahoo.com",
     "title": "Direct Optimization Designer",
@@ -659,7 +659,7 @@
   },
   {
     "id": "74",
-    "rate": 25,
+    "rate": 2,
     "reviewer": "Arlene Hermiston",
     "assigned_to": "Jules.Wiegand@yahoo.com",
     "title": "Forward Branding Technician",
@@ -668,7 +668,7 @@
   },
   {
     "id": "75",
-    "rate": 93,
+    "rate": 3,
     "reviewer": "Eliza Romaguera III",
     "assigned_to": "Jules.Wiegand@yahoo.com",
     "title": "Senior Accountability Supervisor",
@@ -677,7 +677,7 @@
   },
   {
     "id": "76",
-    "rate": 17,
+    "rate": 1,
     "reviewer": "Karine Gulgowski I",
     "assigned_to": "Lincoln19@hotmail.com",
     "title": "Investor Program Executive",
@@ -686,7 +686,7 @@
   },
   {
     "id": "77",
-    "rate": 40,
+    "rate": 3,
     "reviewer": "Verlie Konopelski",
     "assigned_to": "Dakota_Bergnaum@gmail.com",
     "title": "Global Marketing Strategist",
@@ -695,7 +695,7 @@
   },
   {
     "id": "78",
-    "rate": 74,
+    "rate": 4,
     "reviewer": "Laverne Nienow",
     "assigned_to": "Anahi.Kuhn@gmail.com",
     "title": "Internal Implementation Director",
@@ -704,7 +704,7 @@
   },
   {
     "id": "79",
-    "rate": 72,
+    "rate": 2,
     "reviewer": "Kenton Nader",
     "assigned_to": "Helga.OKon70@gmail.com",
     "title": "Principal Creative Liaison",
@@ -713,7 +713,7 @@
   },
   {
     "id": "80",
-    "rate": 93,
+    "rate": 3,
     "reviewer": "Raymundo Marvin",
     "assigned_to": "Anahi.Kuhn@gmail.com",
     "title": "Direct Security Facilitator",
@@ -722,7 +722,7 @@
   },
   {
     "id": "81",
-    "rate": 10,
+    "rate": 1,
     "reviewer": "Waino Cronin",
     "assigned_to": "Anahi.Kuhn@gmail.com",
     "title": "International Intranet Designer",
@@ -731,7 +731,7 @@
   },
   {
     "id": "82",
-    "rate": 25,
+    "rate": 5,
     "reviewer": "Chadrick Ernser",
     "assigned_to": "Meta90@hotmail.com",
     "title": "Human Functionality Analyst",
@@ -740,7 +740,7 @@
   },
   {
     "id": "83",
-    "rate": 83,
+    "rate": 3,
     "reviewer": "Jadyn Rogahn",
     "assigned_to": "Julia_Stroman@hotmail.com",
     "title": "Customer Metrics Liaison",
@@ -749,7 +749,7 @@
   },
   {
     "id": "84",
-    "rate": 96,
+    "rate": 3,
     "reviewer": "Darrion Kunze",
     "assigned_to": "Meta90@hotmail.com",
     "title": "Central Applications Producer",
@@ -758,7 +758,7 @@
   },
   {
     "id": "85",
-    "rate": 9,
+    "rate": 2,
     "reviewer": "Domenica O'Connell DDS",
     "assigned_to": "Meta90@hotmail.com",
     "title": "District Directives Administrator",
@@ -767,7 +767,7 @@
   },
   {
     "id": "86",
-    "rate": 23,
+    "rate": 3,
     "reviewer": "Litzy Nolan",
     "assigned_to": "Donny.Nader@yahoo.com",
     "title": "Future Brand Developer",
@@ -776,7 +776,7 @@
   },
   {
     "id": "87",
-    "rate": 25,
+    "rate": 5,
     "reviewer": "Brenden Baumbach",
     "assigned_to": "Marie40@hotmail.com",
     "title": "Direct Markets Orchestrator",
@@ -785,7 +785,7 @@
   },
   {
     "id": "88",
-    "rate": 12,
+    "rate": 1,
     "reviewer": "Elian Friesen",
     "assigned_to": "Marie40@hotmail.com",
     "title": "Direct Accounts Architect",
@@ -794,7 +794,7 @@
   },
   {
     "id": "89",
-    "rate": 25,
+    "rate": 5,
     "reviewer": "Orrin Zemlak",
     "assigned_to": "Woodrow.Hartmann37@hotmail.com",
     "title": "International Accountability Engineer",
@@ -812,7 +812,7 @@
   },
   {
     "id": "91",
-    "rate": 60,
+    "rate": 1,
     "reviewer": "Mitchel Borer",
     "assigned_to": "Woodrow.Hartmann37@hotmail.com",
     "title": "Dynamic Marketing Manager",
@@ -821,7 +821,7 @@
   },
   {
     "id": "92",
-    "rate": 82,
+    "rate": 2,
     "reviewer": "Annabell Hilpert",
     "assigned_to": "Woodrow.Hartmann37@hotmail.com",
     "title": "Global Usability Planner",
@@ -839,7 +839,7 @@
   },
   {
     "id": "94",
-    "rate": 97,
+    "rate": 3,
     "reviewer": "Alanna Streich",
     "assigned_to": "Darius.Watsica59@hotmail.com",
     "title": "Senior Implementation Strategist",
@@ -848,7 +848,7 @@
   },
   {
     "id": "95",
-    "rate": 71,
+    "rate": 1,
     "reviewer": "Missouri White PhD",
     "assigned_to": "Jedediah.Windler@hotmail.com",
     "title": "Lead Tactics Orchestrator",
@@ -857,7 +857,7 @@
   },
   {
     "id": "96",
-    "rate": 34,
+    "rate": 4,
     "reviewer": "Gussie Wuckert",
     "assigned_to": "Abbey60@gmail.com",
     "title": "Future Branding Planner",
@@ -866,7 +866,7 @@
   },
   {
     "id": "97",
-    "rate": 14,
+    "rate": 1,
     "reviewer": "Geo Harvey",
     "assigned_to": "Zander38@yahoo.com",
     "title": "Regional Directives Planner",
@@ -875,7 +875,7 @@
   },
   {
     "id": "98",
-    "rate": 51,
+    "rate": 5,
     "reviewer": "Amber Lockman",
     "assigned_to": "Darion.Block@hotmail.com",
     "title": "Lead Applications Analyst",
@@ -884,7 +884,7 @@
   },
   {
     "id": "99",
-    "rate": 54,
+    "rate": 4,
     "reviewer": "Dayne Bartell",
     "assigned_to": "Isabel.Collier@hotmail.com",
     "title": "District Operations Supervisor",
@@ -893,7 +893,7 @@
   },
   {
     "id": "100",
-    "rate": 100,
+    "rate": 2,
     "reviewer": "Ross Hahn",
     "assigned_to": "Linda.Greenholt@hotmail.com",
     "title": "Central Operations Liaison",

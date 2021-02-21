@@ -3,16 +3,17 @@
     "id": "1",
     "rate": 88,
     "reviewer": "Miss Connie Kemmer",
-    "assigned_to": "Derrick_Ward0@yahoo.com",
+    "assigned_to": "Ettie_Erdman45@hotmail.com",
     "title": "District Communications Associate",
     "content": "Universal bypass Rue",
-    "created_at": "2021-02-19T14:56:32.815Z"
+    "created_at": "2021-02-19T14:56:32.815Z",
+    "pictur_url": "https://s3.amazonaws.com/uifaces/faces/twitter/adamnac/128.jpg"
   },
   {
     "id": "2",
     "rate": 7,
     "reviewer": "Stuart Reilly",
-    "assigned_to": "Derrick_Ward0@yahoo.com",
+    "assigned_to": "Ettie_Erdman45@hotmail.com",
     "title": "Direct Optimization Specialist",
     "content": "Won",
     "created_at": "2021-02-19T03:28:02.848Z"
@@ -21,7 +22,7 @@
     "id": "3",
     "rate": 39,
     "reviewer": "Mr. Ray Batz",
-    "assigned_to": "Derrick_Ward0@yahoo.com",
+    "assigned_to": "Ettie_Erdman45@hotmail.com",
     "title": "Global Intranet Architect",
     "content": "Heights Officer connecting",
     "created_at": "2021-02-19T05:37:08.441Z"
@@ -30,7 +31,7 @@
     "id": "4",
     "rate": 25,
     "reviewer": "Jeremie Konopelski II",
-    "assigned_to": "Derrick_Ward0@yahoo.com",
+    "assigned_to": "Ettie_Erdman45@hotmail.com",
     "title": "Chief Intranet Producer",
     "content": "invoice",
     "created_at": "2021-02-19T14:02:42.892Z"
@@ -39,7 +40,7 @@
     "id": "5",
     "rate": 66,
     "reviewer": "Darrion Lynch",
-    "assigned_to": "Shirley_Hegmann@hotmail.com",
+    "assigned_to": "Libby.King99@hotmail.com",
     "title": "Customer Directives Consultant",
     "content": "data-warehouse attitude-oriented bypass",
     "created_at": "2021-02-19T10:52:46.398Z"
@@ -48,7 +49,7 @@
     "id": "6",
     "rate": 46,
     "reviewer": "Phoebe Kertzmann",
-    "assigned_to": "Derrick_Ward0@yahoo.com",
+    "assigned_to": "Stacey.Nader@gmail.com",
     "title": "Customer Data Engineer",
     "content": "Savings Account composite system-worthy",
     "created_at": "2021-02-19T04:24:49.671Z"
@@ -57,7 +58,7 @@
     "id": "7",
     "rate": 82,
     "reviewer": "Verner Gaylord",
-    "assigned_to": "Hyman39@hotmail.com",
+    "assigned_to": "Stacey.Nader@gmail.com",
     "title": "Forward Accounts Architect",
     "content": "modular online",
     "created_at": "2021-02-19T01:55:52.518Z"
@@ -66,7 +67,7 @@
     "id": "8",
     "rate": 43,
     "reviewer": "Edgardo Larson",
-    "assigned_to": "Shirley_Hegmann@hotmail.com",
+    "assigned_to": "Libby.King99@hotmail.com",
     "title": "Legacy Directives Associate",
     "content": "Beauty",
     "created_at": "2021-02-19T11:18:46.981Z"
@@ -75,7 +76,7 @@
     "id": "9",
     "rate": 47,
     "reviewer": "Ana Corkery",
-    "assigned_to": "Hyman39@hotmail.com",
+    "assigned_to": "Stacey.Nader@gmail.com",
     "title": "Principal Security Supervisor",
     "content": "CFP Franc generate Handmade",
     "created_at": "2021-02-19T07:54:17.577Z"
@@ -84,7 +85,7 @@
     "id": "10",
     "rate": 99,
     "reviewer": "Victoria O'Reilly",
-    "assigned_to": "Libbie.Gislason33@hotmail.com",
+    "assigned_to": "Kevon.Lowe28@yahoo.com",
     "title": "Product Paradigm Officer",
     "content": "Generic",
     "created_at": "2021-02-19T02:40:43.839Z"
@@ -93,7 +94,7 @@
     "id": "11",
     "rate": 94,
     "reviewer": "Herminia Beatty",
-    "assigned_to": "Benjamin_Gutkowski16@yahoo.com",
+    "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "National Operations Analyst",
     "content": "client-server primary Fantastic",
     "created_at": "2021-02-19T11:35:20.717Z"
@@ -102,7 +103,7 @@
     "id": "12",
     "rate": 16,
     "reviewer": "John duparis",
-    "assigned_to": "Libbie.Gislason33@hotmail.com",
+    "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Global Optimization Technician",
     "content": "primary transition",
     "created_at": "2021-02-19T04:38:00.108Z"
@@ -111,7 +112,7 @@
     "id": "13",
     "rate": 17,
     "reviewer": "Margie Wiegand III",
-    "assigned_to": "Libbie.Gislason33@hotmail.com",
+    "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Investor Assurance Director",
     "content": "mesh",
     "created_at": "2021-02-19T10:13:48.955Z"
@@ -120,7 +121,7 @@
     "id": "14",
     "rate": 30,
     "reviewer": "Ray Padberg",
-    "assigned_to": "Benjamin_Gutkowski16@yahoo.com",
+    "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Principal Communications Coordinator",
     "content": "Exclusive azure",
     "created_at": "2021-02-19T03:37:32.483Z"
@@ -129,7 +130,7 @@
     "id": "15",
     "rate": 83,
     "reviewer": "Eldora Pfeffer",
-    "assigned_to": "Laila.Erdman2@hotmail.com",
+    "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "District Quality Associate",
     "content": "pink purple Granite",
     "created_at": "2021-02-20T00:27:33.566Z"
@@ -138,7 +139,7 @@
     "id": "16",
     "rate": 57,
     "reviewer": "Whitney Roob",
-    "assigned_to": "Benjamin_Gutkowski16@yahoo.com",
+    "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Global Usability Facilitator",
     "content": "Clothing Cambridgeshire",
     "created_at": "2021-02-20T00:28:48.655Z"
@@ -147,7 +148,7 @@
     "id": "17",
     "rate": 94,
     "reviewer": "Naomi Conroy",
-    "assigned_to": "Laila.Erdman2@hotmail.com",
+    "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Product Creative Agent",
     "content": "open-source Forint",
     "created_at": "2021-02-19T16:22:37.682Z"
@@ -156,7 +157,7 @@
     "id": "18",
     "rate": 1,
     "reviewer": "Adrianna McClure",
-    "assigned_to": "Laila.Erdman2@hotmail.com",
+    "assigned_to": "Shaylee_Wintheiser49@yahoo.com",
     "title": "Chief Accountability Technician",
     "content": "backing up Cape Verde Escudo web-readiness",
     "created_at": "2021-02-19T13:02:16.980Z"
@@ -165,7 +166,7 @@
     "id": "19",
     "rate": 12,
     "reviewer": "Adelia Blanda",
-    "assigned_to": "Laila.Erdman2@hotmail.com",
+    "assigned_to": "Luigi.Brakus@hotmail.com",
     "title": "Regional Web Consultant",
     "content": "dot-com",
     "created_at": "2021-02-19T22:29:07.660Z"
@@ -174,7 +175,7 @@
     "id": "20",
     "rate": 75,
     "reviewer": "Dwight Ledner",
-    "assigned_to": "Americo_Hudson19@hotmail.com",
+    "assigned_to": "Laurianne.McClure70@yahoo.com",
     "title": "Customer Intranet Strategist",
     "content": "Toys JBOD harness",
     "created_at": "2021-02-19T23:01:09.283Z"
@@ -183,7 +184,7 @@
     "id": "21",
     "rate": 82,
     "reviewer": "Ella Kuhn",
-    "assigned_to": "Americo_Hudson19@hotmail.com",
+    "assigned_to": "Laurianne.McClure70@yahoo.com",
     "title": "Principal Accountability Supervisor",
     "content": "synthesizing",
     "created_at": "2021-02-19T06:51:41.621Z"
@@ -192,7 +193,7 @@
     "id": "22",
     "rate": 63,
     "reviewer": "Rupert Torphy",
-    "assigned_to": "Anita65@gmail.com",
+    "assigned_to": "Levi.Kulas@yahoo.com",
     "title": "Global Identity Facilitator",
     "content": "payment",
     "created_at": "2021-02-19T04:39:30.718Z"
@@ -201,7 +202,7 @@
     "id": "23",
     "rate": 60,
     "reviewer": "Monte Ebert",
-    "assigned_to": "Geovanny.Blick17@gmail.com",
+    "assigned_to": "Levi.Kulas@yahoo.com",
     "title": "Central Creative Architect",
     "content": "portal",
     "created_at": "2021-02-19T22:03:16.602Z"
@@ -210,7 +211,7 @@
     "id": "24",
     "rate": 50,
     "reviewer": "Jackson Hudson",
-    "assigned_to": "Anita65@gmail.com",
+    "assigned_to": "Levi.Kulas@yahoo.com",
     "title": "Global Functionality Administrator",
     "content": "Distributed",
     "created_at": "2021-02-19T16:23:26.402Z"
@@ -219,7 +220,7 @@
     "id": "25",
     "rate": 12,
     "reviewer": "Nora Swift",
-    "assigned_to": "Geovanny.Blick17@gmail.com",
+    "assigned_to": "Jess_Nolan@hotmail.com",
     "title": "Central Data Strategist",
     "content": "Dynamic invoice",
     "created_at": "2021-02-19T02:26:15.384Z"
@@ -228,7 +229,7 @@
     "id": "26",
     "rate": 84,
     "reviewer": "Jolie Bogan",
-    "assigned_to": "Geovanny.Blick17@gmail.com",
+    "assigned_to": "Zoe_Zemlak67@hotmail.com",
     "title": "Principal Research Planner",
     "content": "Baby Checking Account",
     "created_at": "2021-02-19T02:06:38.346Z"
@@ -237,7 +238,7 @@
     "id": "27",
     "rate": 41,
     "reviewer": "Ken Lindgren",
-    "assigned_to": "Cheyenne55@yahoo.com",
+    "assigned_to": "Jess_Nolan@hotmail.com",
     "title": "Central Branding Facilitator",
     "content": "SQL Burundi Franc",
     "created_at": "2021-02-19T01:22:00.509Z"
@@ -246,7 +247,7 @@
     "id": "28",
     "rate": 38,
     "reviewer": "Cameron Smitham",
-    "assigned_to": "Cheyenne55@yahoo.com",
+    "assigned_to": "Zoe_Zemlak67@hotmail.com",
     "title": "Internal Group Coordinator",
     "content": "revolutionary",
     "created_at": "2021-02-19T10:25:23.507Z"
@@ -255,7 +256,7 @@
     "id": "29",
     "rate": 84,
     "reviewer": "Gust Sporer",
-    "assigned_to": "Cheyenne55@yahoo.com",
+    "assigned_to": "Amina.Medhurst@hotmail.com",
     "title": "Internal Integration Agent",
     "content": "Hawaii Creative",
     "created_at": "2021-02-19T19:51:01.076Z"
@@ -264,7 +265,7 @@
     "id": "30",
     "rate": 35,
     "reviewer": "Estell Hand",
-    "assigned_to": "Geovanny.Blick17@gmail.com",
+    "assigned_to": "Broderick73@hotmail.com",
     "title": "Global Quality Engineer",
     "content": "Intuitive Practical Frozen Computer",
     "created_at": "2021-02-19T19:58:26.413Z"
@@ -273,7 +274,7 @@
     "id": "31",
     "rate": 64,
     "reviewer": "Amalia Lind",
-    "assigned_to": "Geovanny.Blick17@gmail.com",
+    "assigned_to": "Ibrahim83@yahoo.com",
     "title": "Internal Data Producer",
     "content": "Micronesia",
     "created_at": "2021-02-19T17:21:31.882Z"
@@ -282,7 +283,7 @@
     "id": "32",
     "rate": 88,
     "reviewer": "Coby Bode",
-    "assigned_to": "Kailey_Grimes@yahoo.com",
+    "assigned_to": "King.Wilkinson@gmail.com",
     "title": "Dynamic Intranet Assistant",
     "content": "architect Planner Concrete",
     "created_at": "2021-02-19T09:45:55.532Z"
@@ -291,7 +292,7 @@
     "id": "33",
     "rate": 69,
     "reviewer": "Ariane Daugherty",
-    "assigned_to": "Kailey_Grimes@yahoo.com",
+    "assigned_to": "King.Wilkinson@gmail.com",
     "title": "Central Usability Assistant",
     "content": "Lao People's Democratic Republic out-of-the-box",
     "created_at": "2021-02-19T19:46:31.218Z"
@@ -300,7 +301,7 @@
     "id": "34",
     "rate": 81,
     "reviewer": "Paige Gibson",
-    "assigned_to": "Kailey_Grimes@yahoo.com",
+    "assigned_to": "Bailey36@hotmail.com",
     "title": "Corporate Accounts Planner",
     "content": "withdrawal Forge invoice",
     "created_at": "2021-02-19T10:14:34.228Z"
@@ -309,7 +310,7 @@
     "id": "35",
     "rate": 54,
     "reviewer": "Mr. Mckenzie Hane",
-    "assigned_to": "Kailey_Grimes@yahoo.com",
+    "assigned_to": "Gayle39@hotmail.com",
     "title": "Direct Response Analyst",
     "content": "plug-and-play SMTP",
     "created_at": "2021-02-19T23:07:38.984Z"
@@ -318,7 +319,7 @@
     "id": "36",
     "rate": 82,
     "reviewer": "Rowan Bode",
-    "assigned_to": "Reinhold.Conn72@yahoo.com",
+    "assigned_to": "Gayle39@hotmail.com",
     "title": "Lead Markets Producer",
     "content": "Soft Iceland Krona mobile",
     "created_at": "2021-02-19T06:49:28.416Z"
@@ -327,7 +328,7 @@
     "id": "37",
     "rate": 37,
     "reviewer": "Brad Labadie",
-    "assigned_to": "Reinhold.Conn72@yahoo.com",
+    "assigned_to": "Gayle39@hotmail.com",
     "title": "Dynamic Mobility Supervisor",
     "content": "Producer",
     "created_at": "2021-02-19T15:53:50.176Z"
@@ -336,7 +337,7 @@
     "id": "38",
     "rate": 70,
     "reviewer": "Aliza Kuhn",
-    "assigned_to": "Reinhold.Conn72@yahoo.com",
+    "assigned_to": "Horacio.Abshire@gmail.com",
     "title": "Investor Directives Analyst",
     "content": "Missouri Colorado Soap",
     "created_at": "2021-02-19T13:17:04.127Z"
@@ -345,7 +346,7 @@
     "id": "39",
     "rate": 63,
     "reviewer": "Bethany Zulauf",
-    "assigned_to": "Reinhold.Conn72@yahoo.com",
+    "assigned_to": "Ozella.Dare@hotmail.com",
     "title": "International Operations Agent",
     "content": "Chair",
     "created_at": "2021-02-19T15:20:59.716Z"
@@ -354,7 +355,7 @@
     "id": "40",
     "rate": 32,
     "reviewer": "Mrs. Veda Koss",
-    "assigned_to": "Zoey34@hotmail.com",
+    "assigned_to": "Ozella.Dare@hotmail.com",
     "title": "Customer Intranet Officer",
     "content": "Horizontal bypass Infrastructure",
     "created_at": "2021-02-19T11:20:51.968Z"
@@ -363,7 +364,7 @@
     "id": "41",
     "rate": 100,
     "reviewer": "Dr. Elmira Crooks",
-    "assigned_to": "Zoey34@hotmail.com",
+    "assigned_to": "Norbert98@hotmail.com",
     "title": "Future Intranet Assistant",
     "content": "Multi-layered Berkshire mobile",
     "created_at": "2021-02-19T02:38:14.310Z"
@@ -372,7 +373,7 @@
     "id": "42",
     "rate": 89,
     "reviewer": "Autumn Jacobi",
-    "assigned_to": "Zoey34@hotmail.com",
+    "assigned_to": "Jalen.Murazik@gmail.com",
     "title": "Direct Optimization Engineer",
     "content": "Rustic Frozen Pizza lavender Unbranded Concrete Pants",
     "created_at": "2021-02-19T03:45:28.412Z"
@@ -381,7 +382,7 @@
     "id": "43",
     "rate": 93,
     "reviewer": "Mikayla Rippin",
-    "assigned_to": "Evelyn35@yahoo.com",
+    "assigned_to": "Mattie_Murphy@gmail.com",
     "title": "Future Applications Consultant",
     "content": "Metal Montana",
     "created_at": "2021-02-19T02:06:53.567Z"
@@ -390,7 +391,7 @@
     "id": "44",
     "rate": 34,
     "reviewer": "Miss Kiel Mohr",
-    "assigned_to": "Evelyn35@yahoo.com",
+    "assigned_to": "Mattie_Murphy@gmail.com",
     "title": "Internal Branding Manager",
     "content": "Monitored Ohio",
     "created_at": "2021-02-19T23:49:41.626Z"
@@ -399,7 +400,7 @@
     "id": "45",
     "rate": 54,
     "reviewer": "Orland Russel",
-    "assigned_to": "Evelyn35@yahoo.com",
+    "assigned_to": "Jayce_Wintheiser@yahoo.com",
     "title": "Direct Accounts Liaison",
     "content": "program Small Fresh Mouse synthesizing",
     "created_at": "2021-02-19T17:59:23.634Z"
@@ -408,7 +409,7 @@
     "id": "46",
     "rate": 9,
     "reviewer": "Baylee West",
-    "assigned_to": "Evelyn35@yahoo.com",
+    "assigned_to": "Haylee_Hintz@yahoo.com",
     "title": "Internal Integration Administrator",
     "content": "Wooden",
     "created_at": "2021-02-19T10:38:12.831Z"
@@ -417,7 +418,7 @@
     "id": "47",
     "rate": 61,
     "reviewer": "Nadia Hudson",
-    "assigned_to": "Evelyn35@yahoo.com",
+    "assigned_to": "Haylee_Hintz@yahoo.com",
     "title": "District Data Technician",
     "content": "cutting-edge Credit Card Account",
     "created_at": "2021-02-19T15:20:08.885Z"
@@ -426,7 +427,7 @@
     "id": "48",
     "rate": 17,
     "reviewer": "Sonny Ruecker",
-    "assigned_to": "Zoey34@hotmail.com",
+    "assigned_to": "Tyson_Marvin10@yahoo.com",
     "title": "Global Tactics Planner",
     "content": "Rustic",
     "created_at": "2021-02-19T03:53:03.598Z"
@@ -435,7 +436,7 @@
     "id": "49",
     "rate": 50,
     "reviewer": "Effie Pagac",
-    "assigned_to": "Zoey34@hotmail.com",
+    "assigned_to": "Tyson_Marvin10@yahoo.com",
     "title": "Customer Data Officer",
     "content": "Orchestrator",
     "created_at": "2021-02-19T01:09:54.874Z"
@@ -444,7 +445,7 @@
     "id": "50",
     "rate": 29,
     "reviewer": "Josefina Torphy",
-    "assigned_to": "Heaven_Gutkowski@yahoo.com",
+    "assigned_to": "Tyson_Marvin10@yahoo.com",
     "title": "National Accounts Administrator",
     "content": "microchip Namibia District",
     "created_at": "2021-02-19T17:05:50.633Z"
@@ -453,7 +454,7 @@
     "id": "51",
     "rate": 27,
     "reviewer": "Ophelia Hessel",
-    "assigned_to": "Maverick29@yahoo.com",
+    "assigned_to": "Herta.Jaskolski@yahoo.com",
     "title": "National Paradigm Administrator",
     "content": "Concrete XML",
     "created_at": "2021-02-19T06:47:19.089Z"
@@ -462,7 +463,7 @@
     "id": "52",
     "rate": 2,
     "reviewer": "Rudy Kuphal DDS",
-    "assigned_to": "Heaven_Gutkowski@yahoo.com",
+    "assigned_to": "Ernest.Jacobi70@hotmail.com",
     "title": "Investor Marketing Director",
     "content": "systematic Delaware",
     "created_at": "2021-02-19T05:51:20.906Z"
@@ -471,7 +472,7 @@
     "id": "53",
     "rate": 62,
     "reviewer": "Liam Orn",
-    "assigned_to": "Maverick29@yahoo.com",
+    "assigned_to": "Ernest.Jacobi70@hotmail.com",
     "title": "Dynamic Configuration Administrator",
     "content": "Garden",
     "created_at": "2021-02-19T09:53:56.819Z"
@@ -480,7 +481,7 @@
     "id": "54",
     "rate": 47,
     "reviewer": "Valerie Pfannerstill I",
-    "assigned_to": "Heaven_Gutkowski@yahoo.com",
+    "assigned_to": "Jake_Bruen9@yahoo.com",
     "title": "Customer Functionality Administrator",
     "content": "Rustic",
     "created_at": "2021-02-19T02:15:55.016Z"
@@ -489,7 +490,7 @@
     "id": "55",
     "rate": 89,
     "reviewer": "Sydnee Quigley",
-    "assigned_to": "Maverick29@yahoo.com",
+    "assigned_to": "Nathan_Collier@hotmail.com",
     "title": "Human Solutions Engineer",
     "content": "Berkshire",
     "created_at": "2021-02-19T13:16:51.226Z"
@@ -498,7 +499,7 @@
     "id": "56",
     "rate": 43,
     "reviewer": "Johan Robel IV",
-    "assigned_to": "Maverick29@yahoo.com",
+    "assigned_to": "Jermaine_Hermann93@gmail.com",
     "title": "Legacy Research Associate",
     "content": "Avon Unbranded",
     "created_at": "2021-02-19T07:09:21.500Z"
@@ -507,7 +508,7 @@
     "id": "57",
     "rate": 42,
     "reviewer": "Ocie Bogisich",
-    "assigned_to": "Maverick29@yahoo.com",
+    "assigned_to": "Jermaine_Hermann93@gmail.com",
     "title": "Chief Factors Manager",
     "content": "Keyboard",
     "created_at": "2021-02-19T03:48:06.683Z"
@@ -516,7 +517,7 @@
     "id": "58",
     "rate": 61,
     "reviewer": "Jermain Spencer",
-    "assigned_to": "Maverick29@yahoo.com",
+    "assigned_to": "Sammie21@hotmail.com",
     "title": "Customer Paradigm Orchestrator",
     "content": "bypassing Illinois",
     "created_at": "2021-02-19T20:30:52.168Z"
@@ -525,7 +526,7 @@
     "id": "59",
     "rate": 30,
     "reviewer": "Mrs. Winona Trantow",
-    "assigned_to": "Ova.Sawayn@hotmail.com",
+    "assigned_to": "Sammie21@hotmail.com",
     "title": "National Web Liaison",
     "content": "compress port",
     "created_at": "2021-02-19T04:56:00.591Z"
@@ -534,7 +535,7 @@
     "id": "60",
     "rate": 60,
     "reviewer": "Cole Reynolds",
-    "assigned_to": "Maverick29@yahoo.com",
+    "assigned_to": "Sammie21@hotmail.com",
     "title": "Central Branding Strategist",
     "content": "Robust",
     "created_at": "2021-02-19T19:32:00.853Z"
@@ -543,7 +544,7 @@
     "id": "61",
     "rate": 39,
     "reviewer": "Lambert Cremin",
-    "assigned_to": "Ova.Sawayn@hotmail.com",
+    "assigned_to": "Sammie21@hotmail.com",
     "title": "Regional Division Liaison",
     "content": "invoice Handcrafted solid state",
     "created_at": "2021-02-19T19:03:33.251Z"
@@ -552,7 +553,7 @@
     "id": "62",
     "rate": 65,
     "reviewer": "Krystal Mraz",
-    "assigned_to": "Ova.Sawayn@hotmail.com",
+    "assigned_to": "Sammie21@hotmail.com",
     "title": "District Functionality Architect",
     "content": "Concrete Concrete",
     "created_at": "2021-02-19T01:43:02.902Z"
@@ -561,7 +562,7 @@
     "id": "63",
     "rate": 84,
     "reviewer": "Jabari O'Hara",
-    "assigned_to": "Ova.Sawayn@hotmail.com",
+    "assigned_to": "Deion12@hotmail.com",
     "title": "Customer Functionality Specialist",
     "content": "synthesizing Product",
     "created_at": "2021-02-19T02:50:09.531Z"
@@ -570,7 +571,7 @@
     "id": "64",
     "rate": 98,
     "reviewer": "Mrs. Dewitt Bayer",
-    "assigned_to": "Ova.Sawayn@hotmail.com",
+    "assigned_to": "Jerald.Halvorson@gmail.com",
     "title": "Chief Accountability Orchestrator",
     "content": "integrated withdrawal",
     "created_at": "2021-02-19T15:15:42.643Z"
@@ -579,7 +580,7 @@
     "id": "65",
     "rate": 84,
     "reviewer": "Jayden Kuhic PhD",
-    "assigned_to": "Ova.Sawayn@hotmail.com",
+    "assigned_to": "Ellen39@gmail.com",
     "title": "Future Branding Associate",
     "content": "deposit",
     "created_at": "2021-02-19T19:31:55.783Z"
@@ -588,7 +589,7 @@
     "id": "66",
     "rate": 32,
     "reviewer": "Joesph Kessler",
-    "assigned_to": "Ransom.Zulauf10@yahoo.com",
+    "assigned_to": "Ellen39@gmail.com",
     "title": "Regional Tactics Director",
     "content": "compressing solid state seamless",
     "created_at": "2021-02-19T12:53:47.501Z"
@@ -597,7 +598,7 @@
     "id": "67",
     "rate": 2,
     "reviewer": "Miss Darrick Jones",
-    "assigned_to": "Ransom.Zulauf10@yahoo.com",
+    "assigned_to": "Hazle_Hamill10@hotmail.com",
     "title": "Global Solutions Orchestrator",
     "content": "Electronics",
     "created_at": "2021-02-19T16:46:21.645Z"
@@ -606,7 +607,7 @@
     "id": "68",
     "rate": 49,
     "reviewer": "Peyton Cummings",
-    "assigned_to": "Ransom.Zulauf10@yahoo.com",
+    "assigned_to": "Hazle_Hamill10@hotmail.com",
     "title": "Lead Paradigm Strategist",
     "content": "Pre-emptive Mexico Massachusetts",
     "created_at": "2021-02-19T22:25:19.014Z"
@@ -615,7 +616,7 @@
     "id": "69",
     "rate": 13,
     "reviewer": "Jennie Lueilwitz",
-    "assigned_to": "Ransom.Zulauf10@yahoo.com",
+    "assigned_to": "Joesph_Weimann8@hotmail.com",
     "title": "Investor Operations Technician",
     "content": "Brand deposit embrace",
     "created_at": "2021-02-19T00:34:19.765Z"
@@ -624,7 +625,7 @@
     "id": "70",
     "rate": 6,
     "reviewer": "Mrs. Jasen Daniel",
-    "assigned_to": "Ransom.Zulauf10@yahoo.com",
+    "assigned_to": "Joesph_Weimann8@hotmail.com",
     "title": "Legacy Response Analyst",
     "content": "visualize supply-chains Idaho",
     "created_at": "2021-02-19T02:21:30.032Z"
@@ -633,7 +634,7 @@
     "id": "71",
     "rate": 6,
     "reviewer": "Trystan Hayes",
-    "assigned_to": "Ransom.Zulauf10@yahoo.com",
+    "assigned_to": "Norbert.Marquardt58@hotmail.com",
     "title": "Product Functionality Producer",
     "content": "Assistant",
     "created_at": "2021-02-19T19:16:18.275Z"
@@ -642,7 +643,7 @@
     "id": "72",
     "rate": 24,
     "reviewer": "Lupe O'Conner Jr.",
-    "assigned_to": "Ransom.Zulauf10@yahoo.com",
+    "assigned_to": "Norbert.Marquardt58@hotmail.com",
     "title": "Regional Marketing Producer",
     "content": "navigate Implementation",
     "created_at": "2021-02-19T22:31:10.726Z"
@@ -651,7 +652,7 @@
     "id": "73",
     "rate": 92,
     "reviewer": "Eleazar Rice III",
-    "assigned_to": "Ransom.Zulauf10@yahoo.com",
+    "assigned_to": "Jules.Wiegand@yahoo.com",
     "title": "Direct Optimization Designer",
     "content": "generating bricks-and-clicks",
     "created_at": "2021-02-19T01:06:00.817Z"
@@ -660,7 +661,7 @@
     "id": "74",
     "rate": 25,
     "reviewer": "Arlene Hermiston",
-    "assigned_to": "Marion31@gmail.com",
+    "assigned_to": "Jules.Wiegand@yahoo.com",
     "title": "Forward Branding Technician",
     "content": "THX Keyboard Sausages",
     "created_at": "2021-02-19T21:13:00.574Z"
@@ -669,7 +670,7 @@
     "id": "75",
     "rate": 93,
     "reviewer": "Eliza Romaguera III",
-    "assigned_to": "Marion31@gmail.com",
+    "assigned_to": "Jules.Wiegand@yahoo.com",
     "title": "Senior Accountability Supervisor",
     "content": "Applications",
     "created_at": "2021-02-19T04:45:07.482Z"
@@ -678,7 +679,7 @@
     "id": "76",
     "rate": 17,
     "reviewer": "Karine Gulgowski I",
-    "assigned_to": "Joshua43@hotmail.com",
+    "assigned_to": "Lincoln19@hotmail.com",
     "title": "Investor Program Executive",
     "content": "models",
     "created_at": "2021-02-19T21:39:38.288Z"
@@ -687,7 +688,7 @@
     "id": "77",
     "rate": 40,
     "reviewer": "Verlie Konopelski",
-    "assigned_to": "Dwight22@yahoo.com",
+    "assigned_to": "Dakota_Bergnaum@gmail.com",
     "title": "Global Marketing Strategist",
     "content": "black generate Solomon Islands Dollar",
     "created_at": "2021-02-19T19:04:03.935Z"
@@ -696,7 +697,7 @@
     "id": "78",
     "rate": 74,
     "reviewer": "Laverne Nienow",
-    "assigned_to": "Lola77@yahoo.com",
+    "assigned_to": "Anahi.Kuhn@gmail.com",
     "title": "Internal Implementation Director",
     "content": "Berkshire harness",
     "created_at": "2021-02-19T12:35:15.204Z"
@@ -705,7 +706,7 @@
     "id": "79",
     "rate": 72,
     "reviewer": "Kenton Nader",
-    "assigned_to": "Lola77@yahoo.com",
+    "assigned_to": "Helga.OKon70@gmail.com",
     "title": "Principal Creative Liaison",
     "content": "invoice evolve",
     "created_at": "2021-02-19T10:44:23.003Z"
@@ -714,7 +715,7 @@
     "id": "80",
     "rate": 93,
     "reviewer": "Raymundo Marvin",
-    "assigned_to": "Guadalupe.Zemlak33@gmail.com",
+    "assigned_to": "Anahi.Kuhn@gmail.com",
     "title": "Direct Security Facilitator",
     "content": "green Forward",
     "created_at": "2021-02-19T01:01:36.614Z"
@@ -723,7 +724,7 @@
     "id": "81",
     "rate": 10,
     "reviewer": "Waino Cronin",
-    "assigned_to": "Deshawn.Mayert@gmail.com",
+    "assigned_to": "Anahi.Kuhn@gmail.com",
     "title": "International Intranet Designer",
     "content": "schemas Auto Loan Account",
     "created_at": "2021-02-19T01:11:29.460Z"
@@ -732,7 +733,7 @@
     "id": "82",
     "rate": 25,
     "reviewer": "Chadrick Ernser",
-    "assigned_to": "Deshawn.Mayert@gmail.com",
+    "assigned_to": "Meta90@hotmail.com",
     "title": "Human Functionality Analyst",
     "content": "Flat grid-enabled deposit",
     "created_at": "2021-02-19T12:45:54.463Z"
@@ -741,7 +742,7 @@
     "id": "83",
     "rate": 83,
     "reviewer": "Jadyn Rogahn",
-    "assigned_to": "Alfredo28@yahoo.com",
+    "assigned_to": "Julia_Stroman@hotmail.com",
     "title": "Customer Metrics Liaison",
     "content": "Customer deposit",
     "created_at": "2021-02-19T11:01:08.955Z"
@@ -750,7 +751,7 @@
     "id": "84",
     "rate": 96,
     "reviewer": "Darrion Kunze",
-    "assigned_to": "Breanna11@yahoo.com",
+    "assigned_to": "Meta90@hotmail.com",
     "title": "Central Applications Producer",
     "content": "lavender Managed",
     "created_at": "2021-02-19T02:49:00.720Z"
@@ -759,7 +760,7 @@
     "id": "85",
     "rate": 9,
     "reviewer": "Domenica O'Connell DDS",
-    "assigned_to": "Corene.Kuvalis@gmail.com",
+    "assigned_to": "Meta90@hotmail.com",
     "title": "District Directives Administrator",
     "content": "Andorra Granite 4th generation",
     "created_at": "2021-02-19T01:50:37.093Z"
@@ -768,7 +769,7 @@
     "id": "86",
     "rate": 23,
     "reviewer": "Litzy Nolan",
-    "assigned_to": "Elise_Williamson@gmail.com",
+    "assigned_to": "Donny.Nader@yahoo.com",
     "title": "Future Brand Developer",
     "content": "payment",
     "created_at": "2021-02-19T21:58:46.183Z"
@@ -777,7 +778,7 @@
     "id": "87",
     "rate": 25,
     "reviewer": "Brenden Baumbach",
-    "assigned_to": "Katlyn98@yahoo.com",
+    "assigned_to": "Marie40@hotmail.com",
     "title": "Direct Markets Orchestrator",
     "content": "payment leverage hacking",
     "created_at": "2021-02-19T07:23:00.884Z"
@@ -786,7 +787,7 @@
     "id": "88",
     "rate": 12,
     "reviewer": "Elian Friesen",
-    "assigned_to": "Nestor.Ledner23@hotmail.com",
+    "assigned_to": "Marie40@hotmail.com",
     "title": "Direct Accounts Architect",
     "content": "withdrawal",
     "created_at": "2021-02-19T19:00:58.659Z"
@@ -795,7 +796,7 @@
     "id": "89",
     "rate": 25,
     "reviewer": "Orrin Zemlak",
-    "assigned_to": "Leonor1@gmail.com",
+    "assigned_to": "Woodrow.Hartmann37@hotmail.com",
     "title": "International Accountability Engineer",
     "content": "invoice analyzer",
     "created_at": "2021-02-19T03:15:05.825Z"
@@ -804,7 +805,7 @@
     "id": "90",
     "rate": 4,
     "reviewer": "Edythe Barrows",
-    "assigned_to": "Pearl_Johnson16@yahoo.com",
+    "assigned_to": "Woodrow.Hartmann37@hotmail.com",
     "title": "Direct Markets Liaison",
     "content": "Personal Loan Account",
     "created_at": "2021-02-19T02:27:13.096Z"
@@ -813,7 +814,7 @@
     "id": "91",
     "rate": 60,
     "reviewer": "Mitchel Borer",
-    "assigned_to": "Filiberto.Rau@hotmail.com",
+    "assigned_to": "Woodrow.Hartmann37@hotmail.com",
     "title": "Dynamic Marketing Manager",
     "content": "engineer Response",
     "created_at": "2021-02-19T22:43:53.002Z"
@@ -822,7 +823,7 @@
     "id": "92",
     "rate": 82,
     "reviewer": "Annabell Hilpert",
-    "assigned_to": "Pearl_Johnson16@yahoo.com",
+    "assigned_to": "Woodrow.Hartmann37@hotmail.com",
     "title": "Global Usability Planner",
     "content": "synergize",
     "created_at": "2021-02-19T18:34:51.944Z"
@@ -831,7 +832,7 @@
     "id": "93",
     "rate": 4,
     "reviewer": "Hanna Denesik",
-    "assigned_to": "Julien_Kulas36@gmail.com",
+    "assigned_to": "Woodrow.Hartmann37@hotmail.com",
     "title": "Chief Usability Executive",
     "content": "Maryland",
     "created_at": "2021-02-19T17:12:11.148Z"
@@ -840,7 +841,7 @@
     "id": "94",
     "rate": 97,
     "reviewer": "Alanna Streich",
-    "assigned_to": "Coby52@hotmail.com",
+    "assigned_to": "Darius.Watsica59@hotmail.com",
     "title": "Senior Implementation Strategist",
     "content": "Assimilated",
     "created_at": "2021-02-19T02:22:12.167Z"
@@ -849,7 +850,7 @@
     "id": "95",
     "rate": 71,
     "reviewer": "Missouri White PhD",
-    "assigned_to": "Alysson33@hotmail.com",
+    "assigned_to": "Jedediah.Windler@hotmail.com",
     "title": "Lead Tactics Orchestrator",
     "content": "Avon Multi-channelled microchip",
     "created_at": "2021-02-19T09:34:26.055Z"
@@ -858,7 +859,7 @@
     "id": "96",
     "rate": 34,
     "reviewer": "Gussie Wuckert",
-    "assigned_to": "Alba_Rodriguez@gmail.com",
+    "assigned_to": "Abbey60@gmail.com",
     "title": "Future Branding Planner",
     "content": "Books Chair Generic",
     "created_at": "2021-02-20T00:15:02.261Z"
@@ -867,7 +868,7 @@
     "id": "97",
     "rate": 14,
     "reviewer": "Geo Harvey",
-    "assigned_to": "Cathryn43@hotmail.com",
+    "assigned_to": "Zander38@yahoo.com",
     "title": "Regional Directives Planner",
     "content": "Directives dot-com",
     "created_at": "2021-02-19T14:53:15.198Z"
@@ -876,7 +877,7 @@
     "id": "98",
     "rate": 51,
     "reviewer": "Amber Lockman",
-    "assigned_to": "Theron6@yahoo.com",
+    "assigned_to": "Darion.Block@hotmail.com",
     "title": "Lead Applications Analyst",
     "content": "Shores Singapore",
     "created_at": "2021-02-19T14:40:13.919Z"
@@ -885,7 +886,7 @@
     "id": "99",
     "rate": 54,
     "reviewer": "Dayne Bartell",
-    "assigned_to": "Maxwell.Langworth@hotmail.com",
+    "assigned_to": "Isabel.Collier@hotmail.com",
     "title": "District Operations Supervisor",
     "content": "supply-chains deposit calculate",
     "created_at": "2021-02-19T06:26:12.729Z"
@@ -894,7 +895,7 @@
     "id": "100",
     "rate": 100,
     "reviewer": "Ross Hahn",
-    "assigned_to": "Sylvan_Rolfson17@yahoo.com",
+    "assigned_to": "Linda.Greenholt@hotmail.com",
     "title": "Central Operations Liaison",
     "content": "Intelligent index",
     "created_at": "2021-02-19T17:22:56.805Z"

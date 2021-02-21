@@ -1,8 +1,8 @@
 import { env } from './env';
 import {ApolloServer}  from 'apollo-server';
-import typeDefs from './schema';
-import resolvers from './resolver';
-import UserAPI from './datasources/user';
+import typeDefs from './datasources/schema/index';
+import resolvers from './resolvers/index';
+import UserRestAPI  from  './datasources/user';
 
 const server = new ApolloServer({
     typeDefs,
@@ -10,7 +10,7 @@ const server = new ApolloServer({
     introspection: env.apollo.introspection,
     playground: env.apollo.playground,
     dataSources: () => ({
-        userAPI: new UserAPI()
+        userRestAPI: new UserRestAPI()
     })
 });
 

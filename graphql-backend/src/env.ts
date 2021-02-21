@@ -1,5 +1,7 @@
+require('dotenv').config();
+
 const defaultAppPort = 4000;
-const defaultApiPort = 3000;
+const defaultApiPort = undefined;
 
 interface Env {
     apollo: {
@@ -7,7 +9,7 @@ interface Env {
         playground: boolean
     },
     port: number | string,
-    mock_server_url: string | number
+    mock_server_url: string | undefined
 }
 
 export const env: Env = {

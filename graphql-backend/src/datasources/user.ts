@@ -1,23 +1,13 @@
-import {DataSourceConfig} from "apollo-datasource";
 import {env} from "../env";
+import {RESTDataSource} from 'apollo-datasource-rest';
 
-const {RESTDataSource} = require('apollo-datasource-rest');
-
-class TContext {
-}
-
-export default class UserAPI extends RESTDataSource {
+export default class UserRestAPI extends RESTDataSource {
     constructor() {
         super();
         this.baseURL = env.mock_server_url;
     }
 
-    initialize(config: DataSourceConfig<TContext>) {
-        super.initialize(config);
-        this.context = config.context;
-    }
-
-    async getUsers() {
+    async getUsers() : Promise<any[]> {
         const users = await this.get('/items');
         return Array.isArray(users) ? users : []
 

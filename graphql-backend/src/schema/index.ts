@@ -10,7 +10,8 @@ const graphQlTypeDefs = gql`
         home_address: String,
         gender: Gender,
         picture_url: String,
-        score:Float!
+        score:Float,
+        reviews:[Review]
     }
 
     type Review {

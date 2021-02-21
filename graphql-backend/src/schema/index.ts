@@ -9,7 +9,8 @@ const graphQlTypeDefs = gql`
         email: String!,
         home_address: String,
         gender: Gender,
-        picture_url: String
+        picture_url: String,
+        score:Float!
     }
 
     type Review {
@@ -24,9 +25,9 @@ const graphQlTypeDefs = gql`
     }
 
     enum Gender {
-        MALE
-        FEMALE
-        OTHER
+        Male
+        Female
+        Other
     }
     
     type Query {

@@ -1,6 +1,6 @@
 import { env } from './env';
 import {ApolloServer}  from 'apollo-server';
-import typeDefs from './datasources/schema/index';
+import typeDefs from './schema/index';
 import resolvers from './resolvers/index';
 import UserRestAPI  from  './datasources/user';
 

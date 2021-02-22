@@ -1,6 +1,6 @@
 import {Context} from "vm";
 import {Review, User} from "../types";
-import paginateResults from "../utils";
+import {getHiddenValueMessage, paginateResults} from "../utils";
 
 export default {
     Query: {
@@ -30,12 +30,17 @@ export default {
         },
 
         reviews: async (parent: any, {limit = 100, after_id}: any, {dataSources}: Context) => {
-            const allReviews: Array<Review> = await dataSources.userReviewAPI.getReviews();
+            const reviews: Array<Review> = await dataSources.userReviewAPI.getReviews();
+            const users: Array<User> = await dataSources.userReviewAPI.getUsers();
+
+            const userEmailsArray = users.map((user: User) => {
+                return user.email
+            }).filter((item: string, index: number, self: string[]) => self.indexOf(item) == index);
 
             return paginateResults({
                 limit,
                 after_id,
-                results: allReviews
+                results: reviews.filter((rev: Review) => userEmailsArray.includes(rev.assigned_to))
             });
         },
         welcome: (): string => 'Welcome to this Graphql Backend',
@@ -46,19 +51,23 @@ export default {
             return await dataSources.userReviewAPI.getUserReviews(user.email, rate);
         },
         email: async (user: User, {rate}: any, {dataSources}: Context) => {
-            return `<hidden field according to requirements>`;
+            return getHiddenValueMessage();
         },
         phone: async (user: User, {rate}: any, {dataSources}: Context) => {
             return `<hidden field according to requirements>`;
         },
         picture_url: async (user: User, {rate}: any, {dataSources}: Context) => {
-            return `<hidden field according to requirements>`;
+            return getHiddenValueMessage();
         },
         home_address: async (parent: any, args: any, {dataSources}: Context) => {
-            return `<hidden field according to requirements>`;
+            return getHiddenValueMessage();
         },
         gender: async (parent: any, args: any, {dataSources}: Context) => {
             return `HIDDEN_FIELD`;
         }
+    },
+    Review: {
+
     }
+
 }

@@ -7,7 +7,6 @@ export const paginateResults = ({limit = 20, after_id, results}: { limit: number
         return {reviews: results, next_cursor: null, total: results.length}
     }
 
-    const totalCount = results.length;
     let nextCursor = after_id;
     let startPosition = after_id;
     let reviews = [] as Review[];
@@ -41,6 +40,17 @@ export const paginateResults = ({limit = 20, after_id, results}: { limit: number
     }
 };
 
-export const getHiddenValueMessage  = () => {
+export const getHiddenValueMessage = () => {
     return `<hidden field according to requirements>`;
+}
+
+export const getElapsedTime = (date: string) => {
+    let todayTime = new Date().getTime();
+    let createdAtTime = new Date(date).getTime();
+    let timeDiffInDays = todayTime - createdAtTime;
+    return Math.floor(timeDiffInDays / (1000 * 3600 * 24))
+}
+
+export const isOneYearOldReview = (date: string) => {
+    return getElapsedTime(date) >= 365
 }

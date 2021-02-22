@@ -65,9 +65,5 @@ export default {
         gender: async (parent: any, args: any, {dataSources}: Context) => {
             return `HIDDEN_FIELD`;
         }
-    },
-    Review: {
-
     }
-
 }

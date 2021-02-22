@@ -1,6 +1,7 @@
 import {env} from "../env";
 import {RESTDataSource} from 'apollo-datasource-rest';
 import {Review, User} from "../types";
+import {isOneYearOldReview} from "../utils";
 
 export default class UserReviewAPI extends RESTDataSource {
     constructor() {
@@ -56,7 +57,11 @@ export default class UserReviewAPI extends RESTDataSource {
 
     async getReviews(): Promise<Array<Review>> {
         const reviews = await this.get('/reviews');
-        return Array.isArray(reviews) ? reviews : [];
+
+        // Skip reviews old of One year (365 days)
+        const updateReviews = reviews.filter((r: Review) => !isOneYearOldReview(r.created_at));
+
+        return Array.isArray(updateReviews) ? updateReviews : [];
     }
 
 }

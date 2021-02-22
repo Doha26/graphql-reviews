@@ -50,13 +50,13 @@ export default {
         reviews: async (user: User, {rate}: any, {dataSources}: Context) => {
             return await dataSources.userReviewAPI.getUserReviews(user.email, rate);
         },
-        email: async (user: User, {rate}: any, {dataSources}: Context) => {
+        email: async (user: User, args: any, {dataSources}: Context) => {
             return getHiddenValueMessage();
         },
-        phone: async (user: User, {rate}: any, {dataSources}: Context) => {
-            return `<hidden field according to requirements>`;
+        phone: async (user: User, args: any, {dataSources}: Context) => {
+            return getHiddenValueMessage();
         },
-        picture_url: async (user: User, {rate}: any, {dataSources}: Context) => {
+        picture_url: async (user: User, args: any, {dataSources}: Context) => {
             return getHiddenValueMessage();
         },
         home_address: async (parent: any, args: any, {dataSources}: Context) => {

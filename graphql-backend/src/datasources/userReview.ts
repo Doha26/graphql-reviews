@@ -28,8 +28,10 @@ export default class UserReviewAPI extends RESTDataSource {
         userReviews.forEach((rev: Review) => {
             sumUserRate += rev.rate
         })
-        // The user score is equal to (total of rates) / number of reviews assigned to the user
-        return (sumUserRate) / userReviews.length;
+
+        // The user score is equal to (total of rates) / number of reviews assigned to the user.
+        // rounded at one number after comma
+        return parseFloat(((sumUserRate) / userReviews.length).toFixed(1));
     }
 
     async getUserReviews(email: string, rate?: number): Promise<Array<Review>> {

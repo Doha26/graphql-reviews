@@ -34,7 +34,7 @@ const graphQlTypeDefs = gql`
     type Query {
         reviews(
             limit: Int
-            after_id: String
+            after_id: Int
         ):ReviewsResponse!
         users: [User]
         user(email:String!):User,

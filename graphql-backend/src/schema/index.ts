@@ -11,7 +11,7 @@ const graphQlTypeDefs = gql`
         gender: Gender,
         picture_url: String,
         score:Float,
-        reviews:[Review]
+        reviews(rate:Int):[Review]
     }
 
     type Review {
@@ -30,20 +30,21 @@ const graphQlTypeDefs = gql`
         Female
         Other
     }
-    
+
     type Query {
         reviews(
-            pageSize: Int
-            after: String
-        ):UserConnection!
+            limit: Int
+            after_id: String
+        ):ReviewsResponse!
         users: [User]
+        user(email:String!):User,
         welcome:String
     }
 
-    type UserConnection { # add this below the Query type as an additional type.
-        next_cursor: String!
-        total: Boolean!
-        reviews: [User]!
+    type ReviewsResponse {
+        next_cursor: Int!
+        total: Int!
+        reviews: [Review]!
     }
 `;
 export default graphQlTypeDefs;

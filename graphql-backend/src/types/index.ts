@@ -1,5 +1,5 @@
 export interface User {
-    id: string
+    id: number
     name: string
     phone: string,
     email: string,
@@ -9,7 +9,7 @@ export interface User {
 }
 
 export interface Review {
-    id:string
+    id:number
     rate: number
     reviewer: string
     assigned_to: string

@@ -7,7 +7,6 @@ export const paginateResults = ({limit = 20, after_id, results}: { limit: number
         return {reviews: results, next_cursor: null, total: results.length}
     }
 
-    const totalCount = results.length;
     let nextCursor = after_id;
     let startPosition = after_id;
     let reviews = [] as Review[];

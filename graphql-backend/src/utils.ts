@@ -1,6 +1,6 @@
 import {Review} from "./types";
 
-const paginateResults = ({limit = 20, after_id, results}: { limit: number, after_id: number | null, results: Array<Review> }) => {
+export const paginateResults = ({limit = 20, after_id, results}: { limit: number, after_id: number | null, results: Array<Review> }) => {
     if (limit < 1) {
         return [];
     } else if (limit === undefined) {
@@ -41,4 +41,6 @@ const paginateResults = ({limit = 20, after_id, results}: { limit: number, after
     }
 };
 
-export default paginateResults;
+export const getHiddenValueMessage  = () => {
+    return `<hidden field according to requirements>`;
+}

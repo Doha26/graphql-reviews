@@ -1,6 +1,6 @@
 import {Context} from "vm";
 import {Review, User} from "../types";
-import paginateResults from "../utils";
+import {getHiddenValueMessage, paginateResults} from "../utils";
 
 export default {
     Query: {
@@ -51,19 +51,23 @@ export default {
             return await dataSources.userReviewAPI.getUserReviews(user.email, rate);
         },
         email: async (user: User, {rate}: any, {dataSources}: Context) => {
-            return `<hidden field according to requirements>`;
+            return getHiddenValueMessage();
         },
         phone: async (user: User, {rate}: any, {dataSources}: Context) => {
             return `<hidden field according to requirements>`;
         },
         picture_url: async (user: User, {rate}: any, {dataSources}: Context) => {
-            return `<hidden field according to requirements>`;
+            return getHiddenValueMessage();
         },
         home_address: async (parent: any, args: any, {dataSources}: Context) => {
-            return `<hidden field according to requirements>`;
+            return getHiddenValueMessage();
         },
         gender: async (parent: any, args: any, {dataSources}: Context) => {
             return `HIDDEN_FIELD`;
         }
+    },
+    Review: {
+
     }
+
 }

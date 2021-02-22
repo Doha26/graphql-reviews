@@ -30,12 +30,17 @@ export default {
         },
 
         reviews: async (parent: any, {limit = 100, after_id}: any, {dataSources}: Context) => {
-            const allReviews: Array<Review> = await dataSources.userReviewAPI.getReviews();
+            const reviews: Array<Review> = await dataSources.userReviewAPI.getReviews();
+            const users: Array<User> = await dataSources.userReviewAPI.getUsers();
+
+            const userEmailsArray = users.map((user: User) => {
+                return user.email
+            }).filter((item: string, index: number, self: string[]) => self.indexOf(item) == index);
 
             return paginateResults({
                 limit,
                 after_id,
-                results: allReviews
+                results: reviews.filter((rev: Review) => userEmailsArray.includes(rev.assigned_to))
             });
         },
         welcome: (): string => 'Welcome to this Graphql Backend',

@@ -33,10 +33,10 @@ export default {
             const allReviews: Array<Review> = await dataSources.userReviewAPI.getReviews();
 
             return paginateResults({
-               limit,
-               after_id,
-               results: allReviews
-           });
+                limit,
+                after_id,
+                results: allReviews
+            });
         },
         welcome: (): string => 'Welcome to this Graphql Backend',
     },
@@ -44,6 +44,21 @@ export default {
     User: {
         reviews: async (user: User, {rate}: any, {dataSources}: Context) => {
             return await dataSources.userReviewAPI.getUserReviews(user.email, rate);
+        },
+        email: async (user: User, {rate}: any, {dataSources}: Context) => {
+            return `<hidden field according to requirements>`;
+        },
+        phone: async (user: User, {rate}: any, {dataSources}: Context) => {
+            return `<hidden field according to requirements>`;
+        },
+        picture_url: async (user: User, {rate}: any, {dataSources}: Context) => {
+            return `<hidden field according to requirements>`;
+        },
+        home_address: async (parent: any, args: any, {dataSources}: Context) => {
+            return `<hidden field according to requirements>`;
+        },
+        gender: async (parent: any, args: any, {dataSources}: Context) => {
+            return `HIDDEN_FIELD`;
         }
     }
 }

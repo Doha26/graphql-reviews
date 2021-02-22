@@ -6,7 +6,7 @@ const graphQlTypeDefs = gql`
         id: ID!
         name: String
         phone: String,
-        email: String!,
+        email: String,
         home_address: String,
         gender: Gender,
         picture_url: String,
@@ -28,7 +28,7 @@ const graphQlTypeDefs = gql`
     enum Gender {
         Male
         Female
-        Other
+        HIDDEN_FIELD
     }
 
     type Query {

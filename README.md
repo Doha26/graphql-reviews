@@ -1,6 +1,6 @@
 # GraphQL-Reviews
 
-> A Graphql backend that allows to manage usres reviews. 🚀
+> A Graphql backend that allows to manage users reviews. 🚀
 
 ## File structure
 
@@ -14,7 +14,7 @@ The app is split out into two folders:
 - [x] Resolvers written in typescript
 - [x] Display users with their average rate (score)
 - [x] For each member, display reviews in anti-chronological order
-- [x] Allows user to filter review par rate (1,2,3,4,5)
+- [x] Allows user to filter review per rate (1,2,3,4,5)
 - [x] Members with no review are not included in results
 - [x] One year old reviews are ignored from results 
 - [x] User personals informations are hidden as required, only the user `id` and `name` are displayed 
@@ -60,7 +60,7 @@ Server is running!
 Litening on port 4000
 Explore at https://studio.apollographql.com/dev
  ```
-- Go to [http://localhost:4000]() to interact with the Aollo server using GraphiQL  
+- Go to [http://localhost:4000]() to interact with the Apollo server using GraphiQL  
  
  ## Demo
 

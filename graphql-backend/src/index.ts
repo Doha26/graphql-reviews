@@ -18,6 +18,6 @@ server.listen().then(() => {
     console.log(`
     Server is running!
     Litening on port ${env.port}
-    Explore at https://studio.apollographql.com/dev
+    Explore at http://localhost:4000
     `)
 })

@@ -58,7 +58,7 @@ yarn start
 ```bash
 Server is running!
 Litening on port 4000
-Explore at https://studio.apollographql.com/dev
+Explore at http://localhost:4000
  ```
 - Go to [http://localhost:4000]() to interact with the Apollo server using GraphiQL  
  

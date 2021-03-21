@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "description": "Backend implementation of the GraphQL backend that performs operations regarding reviews of users for Pretto",
   "main": "index.ts",
+  "engines": { "node": "12.16.3" },
   "scripts": {
     "test": "jest",
-    "start": "nodemon src/index.ts",
-    "build-dev": "webpack --config ./webpack.development.js",
-    "build-prod": "webpack --config ./webpack.production.js"
+    "start": "nodemon dist/index.js",
+    "postinstall": "tsc",
+    "watch-node": "nodemon dist/index.js",
+    "watch-ts": "tsc -w",
+    "start-dev": "nodemon src/index.ts",
+    "deploy": "git add . && git commit -m Heroku && git push heroku master"
   },
   "author": "Pavel Foujeu",
   "license": "ISC",

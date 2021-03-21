@@ -4,7 +4,7 @@ node_modules
 .env
 # testing
 /coverage
-
+graphql-backend/dist
 # production
 /build
 pm-debug.log*

@@ -70,4 +70,3 @@ Explore at http://localhost:4000
 ###  Reviews #2
 ![App-demo](./graphql-backend/src/demo/2.png)
 
- ## Deploy on Heroku

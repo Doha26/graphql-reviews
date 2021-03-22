@@ -3,7 +3,7 @@ import cors from 'cors';
 import * as reviews from './db/reviews.json'
 import * as items from './db/items.json'
 
-const port = process.env.PORT !== undefined ? parseInt(process.env.PORT) : 3000 || 3000;
+const port = process.env.PORT !== undefined ? parseInt(process.env.PORT) : 3000;
 const host = '0.0.0.0'
 
 const app = express();

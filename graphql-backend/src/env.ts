@@ -9,6 +9,7 @@ interface Env {
         playground: boolean
     },
     port: number | string,
+    host: string,
     mock_server_url: string | undefined
 }
 
@@ -18,5 +19,6 @@ export const env: Env = {
         playground: process.env.APOLLO_PLAYGROUND === 'true'
     },
     port: process.env.PORT || defaultAppPort,
+    host: '0.0.0.0',
     mock_server_url: process.env.BASE_API_URL || defaultApiPort
 };

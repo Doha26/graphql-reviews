@@ -1,8 +1,8 @@
-import { env } from './env';
-import {ApolloServer}  from 'apollo-server';
+import {env} from './env';
+import {ApolloServer} from 'apollo-server';
 import typeDefs from './schema/index';
 import resolvers from './resolvers';
-import UserReviewAPI  from  './datasources/index';
+import UserReviewAPI from './datasources/index';
 
 const server = new ApolloServer({
     typeDefs,
@@ -18,6 +18,6 @@ server.listen().then(() => {
     console.log(`
     Server is running!
     Litening on port ${env.port}
-    Explore at http://localhost:4000
+    Explore at http:${env.host}:${env.port}
     `)
-})
+});

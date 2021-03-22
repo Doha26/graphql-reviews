@@ -14,7 +14,7 @@ const server = new ApolloServer({
     })
 });
 
-server.listen().then(() => {
+server.listen(env.port, env.host).then(() => {
     console.log(`
     Server is running!
     Litening on port ${env.port}

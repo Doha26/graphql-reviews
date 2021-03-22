@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && nodemon --experimental-json-modules dist/index.js",
     "start-dev": "node --experimental-json-modules src/index.ts",
-    "deploy": "git add . && git commit -m mock-server && git push mock-server backend-impl && heroku scale worker=1 --remote mock-server "
+    "deploy": "git add . && git commit -m mock-server && git push mock-server backend-impl && mock-server scale worker=1 --remote mock-server "
   },
   "author": "Pavel Foujeu",
   "license": "ISC",

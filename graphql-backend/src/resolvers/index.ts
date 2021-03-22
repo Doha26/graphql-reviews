@@ -1,10 +1,9 @@
-import {Context} from "vm";
 import {Review, User} from "../types";
 import {getHiddenValueMessage, paginateResults} from "../utils";
 
-export default {
+const resolvers  =  {
     Query: {
-        users: async (parent: any, args: any, {dataSources}: Context) => {
+        users: async (parent: any, args: any, {dataSources}: any) => {
             const users: Array<User> = await dataSources.userReviewAPI.getUsers();
             let usersWithReviews: Array<User> = [];
             // Return only users with at least one review
@@ -21,7 +20,7 @@ export default {
             }));
 
         },
-        user: async (parent: any, {email}: any, {dataSources}: Context) => {
+        user: async (parent: any, {email}: any, {dataSources}: any) => {
             const user = await dataSources.userReviewAPI.getUser(email);
             return {
                 ...user,
@@ -29,7 +28,7 @@ export default {
             }
         },
 
-        reviews: async (parent: any, {limit = 100, after_id}: any, {dataSources}: Context) => {
+        reviews: async (parent: any, {limit = 100, after_id}: any, {dataSources}: any) => {
             const reviews: Array<Review> = await dataSources.userReviewAPI.getReviews();
             const users: Array<User> = await dataSources.userReviewAPI.getUsers();
 
@@ -47,23 +46,24 @@ export default {
     },
 
     User: {
-        reviews: async (user: User, {rate}: any, {dataSources}: Context) => {
+        reviews: async (user: User, {rate}: any, {dataSources}: any) => {
             return await dataSources.userReviewAPI.getUserReviews(user.email, rate);
         },
-        email: async (user: User, args: any, {dataSources}: Context) => {
+        email: async (user: User, args: any, {dataSources}: any) => {
             return getHiddenValueMessage();
         },
-        phone: async (user: User, args: any, {dataSources}: Context) => {
+        phone: async (user: User, args: any, {dataSources}: any) => {
             return getHiddenValueMessage();
         },
-        picture_url: async (user: User, args: any, {dataSources}: Context) => {
+        picture_url: async (user: User, args: any, {dataSources}: any) => {
             return getHiddenValueMessage();
         },
-        home_address: async (parent: any, args: any, {dataSources}: Context) => {
+        home_address: async (parent: any, args: any, {dataSources}: any) => {
             return getHiddenValueMessage();
         },
-        gender: async (parent: any, args: any, {dataSources}: Context) => {
+        gender: async (parent: any, args: any, {dataSources}: any) => {
             return `HIDDEN_FIELD`;
         }
     }
 }
+export default resolvers;

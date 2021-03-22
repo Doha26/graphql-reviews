@@ -1,8 +1,8 @@
 import { env } from './env';
 import {ApolloServer}  from 'apollo-server';
 import typeDefs from './schema/index';
-import resolvers from './resolvers/index';
-import UserReviewAPI  from  './datasources/userReview';
+import resolvers from './resolvers';
+import UserReviewAPI  from  './datasources/index';
 
 const server = new ApolloServer({
     typeDefs,

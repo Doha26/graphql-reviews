@@ -1,1 +1,1 @@
-worker: node --experimental-json-modules dist/index.js
+web: node --experimental-json-modules dist/index.js

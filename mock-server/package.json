@@ -4,6 +4,9 @@
   "description": "Mock server to test the GraphQL backend implementation ",
   "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": "12.18.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && nodemon --experimental-json-modules dist/index.js",

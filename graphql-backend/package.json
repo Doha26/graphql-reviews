@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Backend implementation of the GraphQL backend that performs operations regarding reviews of users for Pretto",
   "main": "index.ts",
-  "engines": { "node": "12.18.3" },
   "scripts": {
     "test": "jest",
     "start": "nodemon dist/index.js",

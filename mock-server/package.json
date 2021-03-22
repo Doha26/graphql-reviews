@@ -1,7 +1,7 @@
 {
   "name": "mock-server",
   "version": "1.0.0",
-  "description": "Mock server to test the GraphQL backend implementation ",
+  "description": "Mock server of the graphQl Backend ",
   "main": "index.js",
   "type": "module",
   "scripts": {

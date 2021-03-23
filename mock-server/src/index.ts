@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
-import * as reviews from './db/reviews.json'
-import * as items from './db/items.json'
+import  reviews from './db/reviews.json'
+import  items from './db/items.json'
 
 const port = process.env.PORT !== undefined ? parseInt(process.env.PORT) : 3000;
 const host = '0.0.0.0'

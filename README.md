@@ -70,3 +70,7 @@ Explore at http://localhost:4000
 ###  Reviews #2
 ![App-demo](./graphql-backend/src/demo/2.png)
 
+## Deployed on Heroku. 
+
+- The app is deployed on Heroku.
+[https://graphql-reviews-apollo-server.herokuapp.com/]()

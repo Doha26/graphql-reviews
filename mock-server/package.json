@@ -6,8 +6,9 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc && nodemon --experimental-json-modules dist/index.js",
+    "start": "nodemon --experimental-json-modules dist/index.js",
     "start-dev": "node --experimental-json-modules src/index.ts",
+    "postinstall": "tsc",
     "deploy": "git add . && git commit -m mock-server && git push mock-server backend-impl && heroku scale web=1 --remote mock-server",
     "log": "heroku logs --tail --remote mock-server"
   },

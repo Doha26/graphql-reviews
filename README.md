@@ -73,4 +73,4 @@ Explore at http://localhost:4000
 ## Deployed on Heroku. 
 
 - The app is deployed on Heroku.
-[https://graphql-reviews-apollo-server.herokuapp.com/]()
+[https://graphql-reviews-apollo-server.herokuapp.com/](https://graphql-reviews-apollo-server.herokuapp.com/)

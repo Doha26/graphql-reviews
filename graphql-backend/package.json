@@ -10,7 +10,8 @@
     "watch-node": "nodemon dist/index.js",
     "watch-ts": "tsc -w",
     "start-dev": "nodemon src/index.ts",
-    "deploy": "git add . && git commit -m Heroku && git push heroku master && heroku scale worker=1"
+    "deploy": "git add . && git commit -m Heroku && git push heroku master && heroku scale worker=1",
+    "log": "heroku logs --tail --remote heroku"
   },
   "author": "Pavel Foujeu",
   "license": "ISC",

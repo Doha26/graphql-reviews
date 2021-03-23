@@ -1,7 +1,7 @@
 {
   "name": "graphql-backend",
   "version": "1.0.0",
-  "description": "Backend implementation of the GraphQL backend that performs operations regarding reviews of users for Pretto ",
+  "description": "Backend implementation of the GraphQL backend that performs operations regarding reviews of users for Pretto",
   "main": "index.ts",
   "scripts": {
     "test": "jest",
